@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Juliette Philippe"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Cello performance student at Coe College with 15+ years of classical training. Experienced in music production, studio operations, and arts administration through internships at Electric Lady Studios and Tanglewood."
+  location         : "Cedar Rapids, Iowa"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "juliettep321@gmail.com" 
 
   # Academic websites
   academia         : # URL
